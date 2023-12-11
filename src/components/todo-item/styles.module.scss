@@ -1,0 +1,9 @@
+.todo-list-item{
+    display: flex;      
+    justify-content: space-between;
+}
+.todo-list-item:hover{
+    background-color: darkgrey;
+    padding: 2px;
+    border-radius: 5px ;
+}
